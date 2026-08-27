@@ -6,7 +6,7 @@ Talk naturally. Perla works out what you want, acts across your desktop, and
 tells you when it's done — it is not a dictation box. Voxtype stays your
 dictation tool; Perla is for conversations, actions, and spoken results.
 
-![Perla turns spoken intent into Omarchy desktop action and talks back](preview.png)
+![The Perla orb listening on a dark Omarchy desktop, sound rippling outward from it](preview.png)
 
 | Keyboard | Your voice |
 |---|---|
